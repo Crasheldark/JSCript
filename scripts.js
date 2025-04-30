@@ -8,4 +8,7 @@ window.addEventListener('load', function() {
     // 3. Una variable booleana cuyo nombre sea respuesta e inicialmente con valor true
     let respuesta = true;
 
+    // 4. Crea una constante con nombre pi cuyo valor sea 3.14
+    const PI = 3.14;
+
 });
