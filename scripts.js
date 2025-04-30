@@ -14,4 +14,9 @@ window.addEventListener('load', function() {
     // 5. Modifica el valor de la variable numero para que en lugar de -4 sea 54 pero sin tocar la parte de la declaración de la variable.
     numero = 54;
 
+    // 6. ¿Qué pasa si modificas el valor de la variable antes de que esta sea declarada?
+    // Si intentamos modificar una variable antes de declararla mostrara un error de referencia.
+    // pero si usamos "var", la variable se eleva (hoisting) pero tendrá un valor de "undefined" hasta que se le asigne un valor.
+
+
 });
