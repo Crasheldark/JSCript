@@ -18,5 +18,10 @@ window.addEventListener('load', function() {
     // Si intentamos modificar una variable antes de declararla mostrara un error de referencia.
     // pero si usamos "var", la variable se eleva (hoisting) pero tendrá un valor de "undefined" hasta que se le asigne un valor.
 
+    // 7. Muestra por consola cada una de las variables. Usa console.log(nombre_variable); 
+    console.log(numero);
+    console.log(palabra);
+    console.log(respuesta);
+    console.log(PI);
 
 });
