@@ -46,4 +46,7 @@ window.addEventListener('load', function() {
     // 14. Declara una variable cuyo valor sea tu nombre.
     let nombre = "Julio";
 
+    // 15. Muestra por consola el JAVASCRIPT texto Hola concatenado con el valor de la variable anterior.
+    console.log("Hola " + nombre);
+    
 });
