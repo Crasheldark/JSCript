@@ -37,5 +37,8 @@ window.addEventListener('load', function() {
     // 11. Muestra por consola la multiplicación de ambas variables.
     console.log(num1 * num2);
 
+    // 12. Muestra por consola la división de ambas variables.
+    console.log(num1 / num2);
+
 
 });
