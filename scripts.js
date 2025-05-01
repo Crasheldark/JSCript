@@ -28,4 +28,8 @@ window.addEventListener('load', function() {
     let num1 = 5;
     let num2 = 2;
 
+    // 9. Muestra por consola la suma de ambas variables.
+    console.log(num1 + num2);
+
+
 });
