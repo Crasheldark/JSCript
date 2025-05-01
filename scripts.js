@@ -43,5 +43,7 @@ window.addEventListener('load', function() {
     // 13. Muestra por consola la módulo de ambas variables.
     console.log(num1 % num2);
 
- 
+    // 14. Declara una variable cuyo valor sea tu nombre.
+    let nombre = "Julio";
+
 });
