@@ -16,7 +16,7 @@ window.addEventListener('load', function() {
 
     // 6. ¿Qué pasa si modificas el valor de la variable antes de que esta sea declarada?
     // Si intentamos modificar una variable antes de declararla mostrara un error de referencia.
-    // , si usamos "var", la variable se eleva (hoisting) pero tendrá un valor de "undefined" hasta que se le asigne un valor.
+    // Sin embargo, si usamos "var", la variable se eleva (hoisting) pero tendrá un valor de "undefined" hasta que se le asigne un valor.
 
     // 7. Muestra por consola cada una de las variables. Usa console.log(nombre_variable); 
     console.log(numero);
@@ -40,5 +40,8 @@ window.addEventListener('load', function() {
     // 12. Muestra por consola la división de ambas variables.
     console.log(num1 / num2);
 
+    // 13. Muestra por consola la módulo de ambas variables.
+    console.log(num1 % num2);
 
+ 
 });
