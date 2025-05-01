@@ -34,4 +34,8 @@ window.addEventListener('load', function() {
     // 10. Muestra por consola la resta de ambas variables.
     console.log(num1 - num2);
 
+    // 11. Muestra por consola la multiplicación de ambas variables.
+    console.log(num1 * num2);
+
+
 });
